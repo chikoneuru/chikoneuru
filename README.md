@@ -1,35 +1,58 @@
 <div align="center">
-  <img src="chikoneuru-inhome.jpeg" style="width:100%; max-height:280px; object-fit:cover;" />
+  <img src="chikoneuru-inhome.jpeg" align="center" style="width:100%; max-height:280px; object-fit:cover;" />
 </div>
 
 ## 👋 Hi there, I’m Nguyen Pham Trung Hieu [@chikoneuru](https://github.com/chikoneuru)
 
-### **Just a full-time student 🧑‍🎓 and research assistant 🧑‍💻, as well as...**
+I am an **AI research–oriented undergraduate student 🧑🏻‍💻** with interests in **Efficient-AI Distributed Systems**, 
+**Serving/Serverless Computing**, and **Multimodal Deep Learning**.
 
-<img align="right" width="auto" height="160" src="/hieunpt.png">
+My long-term goal is to pursue **academic AI research**, focusing on building **scalable, reproducible, 
+and resource-efficient AI models**.
 
-- 🏫 Student at **Hanoi University of Science and Technology**
+<p align="center">
+  <a href="https://www.linkedin.com/in/chikoneuru/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0009-0003-3127-1646">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white"/>
+  </a>
+  <a href="mailto:hieu.npt1710@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-- 📝 **Academic Year 2020-2024 | School of Electronics and Telecommunications**  
+---
 
-- 🌱 Currently learning about **Computer Network Engineering and Deep Learning** 
+## 🏫 Education
 
-- 🪴 Have a little experience in **UI/UX Design and Full-stack Web/App Programming**
-  
-- ✉️ Contact for work: **hieu.npt1710@gmail.com**
+**Hanoi University of Science and Technology (HUST)**
+**Academic Year 2020-2024 at School of Electronics and Telecommunications**  
+B.Sc. in Electronics and Telecommunications Engineering  
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fuyukinpth&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<!---
-[![Visit Count](https://visitcount.itsvg.in/api?id=owofuyuki&icon=0&color=12)](https://visitcount.itsvg.in)
---->
+---
+
+## 🌱 Research Interests
+
+- Efficient & Scalable Deep Learning  
+- Distributed Training & Machine Learning Systems  
+- Multimodal Learning (Vision–Language, Audio–Visual)  
+- Model Compression & Optimization  
+
+---
+
+## 📝 Academic Profiles
+
+- **ORCID:** https://orcid.org/0009-0003-3127-1646  
+- **Google Scholar:** *(to be added)*
+
+---
+
+## ✉️ Contact for work: hieu.npt1710@gmail.com
 
 <div align="center">
-  <img src="/helloworld.gif" align="center" style="width: 100%" />
+  <img src="/helloworld.gif" align="center" style="width:100%; max-height:280px; object-fit:cover;" />
 </div>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fuyuki.uwu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/fuyu-hieunpt)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/duavacam_/) 
 
 <!---
 owofuyuki/owofuyuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

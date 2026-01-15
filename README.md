@@ -35,7 +35,7 @@ B.Sc. in Electronics and Telecommunications Engineering
 
 ## 📝 Academic Profiles
 
-- **ORCID:** https://orcid.org/0009-0003-3127-1646  
+- **ORCID:** https://orcid.org/0009-0001-6128-7776 
 - **Google Scholar:** *(to be added)*
 
 <!---

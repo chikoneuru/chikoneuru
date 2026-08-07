@@ -36,7 +36,7 @@ B.Sc. in Electronics and Telecommunications
 ## 📝 Academic Profiles
 
 - **ORCID:** https://orcid.org/0009-0001-6128-7776 
-- **Google Scholar:** *(to be added)*
+- **Google Scholar:** https://scholar.google.com/citations?user=mak92eAAAAAJ&hl=vi
 
 <!---
 <div align="center">

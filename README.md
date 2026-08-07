@@ -22,9 +22,9 @@ and resource-efficient AI models**.
 
 **Hanoi University of Science and Technology (HUST)**
 
-**Academic Year 2020-2024 at School of Electronics and Telecommunications**  
+**Academic Year 2020-2024 at School of Electrical and Electronic Engineering (SEEE)**  
 
-B.Sc. in Electronics and Telecommunications Engineering  
+B.Sc. in Electronics and Telecommunications
 
 ## 🌱 Research Interests
 
